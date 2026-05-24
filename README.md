@@ -1,5 +1,10 @@
 # Data-Structure
+📘 Data Structures Repository
+📌 Overview
 
+This repository contains a well-organized collection of Data Structure concepts implemented using code and explanations. It is designed to help students, beginners, and interview candidates understand fundamental data structures and improve their problem-solving skills through practical examples.
+
+The repository covers both theoretical concepts and hands-on implementations, making it suitable for academic learning and competitive programming preparation.
 
 
 Introduction
@@ -83,4 +88,37 @@ Sorting
 
 Arranging data in ascending or descending order.
 
-Example in Python
+
+🎯 Objectives
+---Understand core data structure concepts
+---Learn how data structures work internally
+---Implement data structures using clean and efficient code
+---Improve algorithmic thinking and coding skills
+---Prepare for exams, interviews, and programming contests
+
+
+📂 Repository Structure
+Data-Structures/
+│── Arrays/
+│── LinkedList/
+│── Stack/
+│── Queue/
+│── Tree/
+│── Graph/
+│── Sorting/
+│── Searching/
+│── Recursion/
+│── README.md
+
+
+
+Clone the repository
+
+git clone https://github.com/your-username/Data-Structures.git
+Navigate to any topic folder
+Read the code and comments carefully
+Run and modify the programs to practice
+
+
+
+
